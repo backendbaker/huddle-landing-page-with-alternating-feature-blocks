@@ -1,0 +1,19 @@
+.logo {
+    font-size: 10px;
+    &__link {
+        display: block;
+    }
+    
+    &__img {
+        display: inline-block;
+        vertical-align: middle;
+        width: 5em;
+    }
+
+    &__title {
+        display: inline-block;
+        font-size: 3rem;
+        font-weight: bold;
+        vertical-align: middle;
+    }
+}
